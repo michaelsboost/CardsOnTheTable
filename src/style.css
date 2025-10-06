@@ -1,7 +1,7 @@
 :root {
-  --primary: #55ddba;
+  --primary: #ff80ac;
   --secondary: #0bffc5;
-  --accent: #2a86f4;
+  --accent: #8280ff;
   --dark: #1a1a2e;
   --light: #f8f9fa;
 }
@@ -12,8 +12,8 @@ body {
   color: var(--dark);
 }
 
-.couple-font {
-  font-family: 'Dancing Script', cursive;
+.font-brand { 
+  font-family: "DM Serif Display", ui-serif, Georgia, Cambria, "Times New Roman", Times, serif; 
 }
 
 .card-container {
